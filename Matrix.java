@@ -58,21 +58,7 @@ public class Matrix {
         add.addArray(arr1,arr2);
         add.display();
 
-//	for(int i1=0;i1<arr1.length;i1++){
-//		for(int j=0;j<arr2.length;j++){
-//			arr3[i1][j]=arr1[i1][j]+arr2[i1][j];
-//		}
-//
-//	}
-//	System.out.println("The matrix is:");
-//	for(int i=0;i<arr1.length;i++){
-//		for(int j=0;j<arr2.length;j++){
-//			System.out.print(arr3[i][j]+" ");
-//
-//		}
-//		System.out.println();
-//
-//	}
+
 
 
     }}
